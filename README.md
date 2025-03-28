@@ -1,9 +1,9 @@
 
-###  DATE: 
+###  DATE: 28-03-25
 
-###  NAME: 
-###  ROLL NO :
-###  DEPARTMENT: 
+###  NAME: MUKITHA V M
+###  ROLL NO : 212223040119
+###  DEPARTMENT: CSE
 
 # EXPERIMENT--04-INTERFACING IOT DEVELOPMENT BOARD AND CONFIGURE USART FOR TRANSFERRING STRINGS 
 ## Aim: To Interface iot development board for configuring the the usart and transfer strings though it 
